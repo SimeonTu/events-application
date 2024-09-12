@@ -7,7 +7,13 @@
    cd events-application
    ```
 
-2. In order to run the project in development mode, type :
+2. Install dependencies:
+
+    ```bash
+    npm install
+    ```
+
+3. In order to run the project in development mode, type :
 
     ```bash
     npm run dev
