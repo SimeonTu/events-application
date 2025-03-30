@@ -1,6 +1,8 @@
 # Dev Events
 Dev Events is a serverless, Progressive Web Application (PWA) designed to provide users with a seamless experience in discovering upcoming events in various cities. The project was developed using a Test-Driven Development (TDD) approach, ensuring robust functionality through unit, integration, and end-to-end testing.
 
+![Dev Events Home GIF](https://media.licdn.com/dms/image/v2/D4D22AQExi1SbPg5I4g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1726632403668?e=1746057600&v=beta&t=GBC78wluMS75BhirgWrKGETl7_H_tUBAw4qmBWC-oas)
+
 Key features include:
 
 - Event Discovery: Fetches events from the Google Calendar API.
